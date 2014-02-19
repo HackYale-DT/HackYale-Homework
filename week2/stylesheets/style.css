@@ -1,0 +1,33 @@
+body {
+	/*Default body has margin and padding sometimes */
+	margin: 0;
+	padding:0;
+	background: #fafafa;
+	font: 14px/20px 'Helvetica' sans-serif;
+}
+
+p{
+margin-bottom: 10px;
+}
+
+ul {
+	padding-left:0;
+}
+
+.background{
+	border: 1pt solid #1e8564;
+	background-color: #09c170;
+	padding: 10px;
+}
+
+.i-b{
+	display: inline-block;
+	padding: 10px;
+	width: 200px;
+	height: 100px;
+	border: 1pt solid #eee;
+	background-color: #ddd;
+	line-height: 100px;
+	text-align: center;
+	font-size: 30px;
+}
